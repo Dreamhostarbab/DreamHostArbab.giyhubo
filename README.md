@@ -1,2 +1,6 @@
 # DreamHostArbab.giyhubo
-I developed this portfolio website using python Django framework.To see the website visit://dreamwebarbab
+echo "# dreamwebarba.gythub.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch
